@@ -1,0 +1,8 @@
+{
+  "uuid": "penultimate-workspace@local",
+  "name": "Penultimate Workspace Shortcut",
+  "description": "Jump to the last non-empty workspace.",
+  "shell-version": ["45","46","47","48"],
+  "settings-schema": "org.gnome.shell.extensions.penultimate-workspace",
+  "version": 1
+}

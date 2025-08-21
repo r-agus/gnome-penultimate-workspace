@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.penultimate-workspace"
+          path="/org/gnome/shell/extensions/penultimate-workspace/">
+    <key name="shortcut" type="as">
+      <default>['&lt;Primary&gt;&lt;Alt&gt;8']</default>
+      <summary>Keybinding for penultimate workspace</summary>
+      <description>Array of accelerators.</description>
+    </key>
+  </schema>
+</schemalist>
